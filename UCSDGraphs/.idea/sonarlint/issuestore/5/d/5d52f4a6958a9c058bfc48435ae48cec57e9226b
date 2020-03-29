@@ -1,0 +1,10 @@
+
+Xsquid:UselessImportCheck"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ
+@squid:S1148Á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+vsquid:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ü‹øÿÿÿÿ
+8squid:S1643 "Use a StringBuilder instead.(÷Ç‘×úÿÿÿÿ
+O
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(éª‚M
+Tsquid:UselessImportCheck"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ
+bsquid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(·Îü…ùÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å

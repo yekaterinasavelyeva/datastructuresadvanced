@@ -1,0 +1,24 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(àƒ†²
+hsquid:S2095>"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(²ž›¬üÿÿÿÿ
+?squid:S1604M"(Make this anonymous inner class a lambda(«ç¤î
+gsquid:UselessImportCheck">Remove this unused import 'gmapsfx.javascript.object.LatLong'.(Ýºµ°øÿÿÿÿ
+msquid:UselessImportCheck"DRemove this unused import 'gmapsfx.javascript.object.LatLongBounds'.(ª¨ñ°úÿÿÿÿ
+Wsquid:UselessImportCheck".Remove this unused import 'mapmaker.MapMaker'.(±é­Šþÿÿÿÿ
+Ssquid:UselessImportCheck
+"/Remove this unused import 'application.MapApp'.(‘‚†¬
+^squid:UselessImportCheck":Remove this unused import 'com.sun.javafx.geom.Rectangle'.(àƒ†²
+isquid:UselessImportCheck"@Remove this unused import 'gmapsfx.javascript.object.GoogleMap'.(ºªÏ§úÿÿÿÿ
+dsquid:UselessImportCheck"@Remove this unused import 'javafx.scene.control.ContentDisplay'.(¿¿ÖÅ
+?squid:S1148H"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+esquid:MaximumInheritanceDepthO"<This class has 9 parents which is greater than 5 authorized.(À›œÐ
+esquid:MaximumInheritanceDepthf"<This class has 9 parents which is greater than 5 authorized.(¾“ýû
+usquid:S1171P"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+Dsquid:S1068"-Remove this unused "ROW_COUNT" private field.(ð›ó”
+Isquid:S1068!"-Remove this unused "container" private field.(ÝâÒÑúÿÿÿÿ
+Hsquid:S1068'",Remove this unused "filename" private field.(È¿÷„ýÿÿÿÿ
+gsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(Âèø§ùÿÿÿÿ
+bsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(éÇ¼Ú
+bsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(ÚÎ†¹
+csquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(¥÷Œá
+csquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(ÿÒ

@@ -1,0 +1,23 @@
+Class: MapGraph
+
+Modifications made to MapGraph (what and why): Implemented all required methods,
+added validation method isNull(..) to check properties passed to addEdge(),
+added constructPath(..) method to restore path from map produced by bfs method.
+Implemented BFS method.
+
+Class name: MapNode
+Purpose and description of class: To describe node. Holds geographical location of the node and list of
+outgoing edges. Hold method getNeighbours to get list of geographical points connected with edges to this node.
+
+Class name: geography/GeographicPoint, geography/RoadSegment
+Purpose and description of class: geography/GeographicPoint, geography/RoadSegment
+Project built-in classes, reused for this particular solution, not in the roadgraph package. Used to describe geographical point and edge between points.
+...
+
+Overall Design Justification (4-6 sentences):
+Design is quite simple: MapGraph object contains mapping from geographic point to MapNode.
+MapNode holds its own geographic coordinate and list of outcoming edges. This solution re-uses objects already created in the project:
+GeographicPoint (describes coordinate of MapNode) and RoadSegment (describes edge between two coordinates).
+Bfs uses queue, within this method MapNode object gets converted to geographic node for further calculations.
+Bfs method is divided in two parts: one calculates map of the path during breadth-first-search,
+second - constructs List of geographic points to the goa from already created path map.

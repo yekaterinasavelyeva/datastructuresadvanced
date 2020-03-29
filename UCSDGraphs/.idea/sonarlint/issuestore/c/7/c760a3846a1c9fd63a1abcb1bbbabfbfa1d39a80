@@ -1,0 +1,15 @@
+
+dsquid:S2095˜"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(‹æÈ
+vsquid:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ò¾ûÿÿÿÿ
+vsquid:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ò¾ûÿÿÿÿ
+vsquid:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ò¾ûÿÿÿÿ
+vsquid:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ò¾ûÿÿÿÿ
+vsquid:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ò¾ûÿÿÿÿ
+@squid:S1148Ö"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+qsquid:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ¤Áø
+O
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(éª‚M
+squid:S1319•"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(³€¡¤şÿÿÿÿ
+vsquid:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ò¾ûÿÿÿÿ
+3squid:S1643"Use a StringBuilder instead.(‹‘’ú
+Tsquid:UselessImportCheck"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ

@@ -1,0 +1,10 @@
+
+bsquid:S2259Y"KA "NullPointerException" could be thrown; "markerManager" is nullable here.(¤¹¿¥
+osquid:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡«¾r
+<squid:S1659E" Declare "ne" on a separate line.(ŽËüÍøÿÿÿÿ
+O
+squid:S106W"9Replace this use of System.out or System.err by a logger.(¸ý—þ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œÔ€
+gsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(ÿ¥©òýÿÿÿÿ
+csquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(¸³Öž
+hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(©ÎÍúÿÿÿÿ

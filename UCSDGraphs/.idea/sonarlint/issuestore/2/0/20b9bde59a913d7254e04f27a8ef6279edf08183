@@ -1,0 +1,15 @@
+
+Jsquid:S1172ô"2Remove this unused method parameter "resetButton".(¦Ÿ½ı
+osquid:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ÜÆ
+bsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(½™²
+hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(›´õşÿÿÿÿ
+qsquid:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÌ¶©
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(ÏíÇıÿÿÿÿ
+psquid:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÅÀı
+[squid:S00107ó"=Method has 12 parameters, which is greater than 7 authorized.(Ÿî¹ûÿÿÿÿ
+Hsquid:S1602\",Remove useless curly braces around statement(ŠØğÏüÿÿÿÿ
+bsquid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(ıÆÀø
+psquid:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎÆñ˜
+hsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(·õ—ƒøÿÿÿÿ
+vsquid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ…Ëûûÿÿÿÿ
+csquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(˜ÄÛ

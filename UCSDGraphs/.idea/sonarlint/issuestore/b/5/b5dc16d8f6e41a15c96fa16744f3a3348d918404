@@ -1,0 +1,50 @@
+
+W
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ü“Š˜8éì–¸‰.
+W
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(¸»€º8éì–¸‰.
+vsquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ü®ôáþÿÿÿÿ8€Ýƒ·‰.
+Ssquid:S1481›"/Remove this unused "testroute2" local variable.(¼Ûÿžüÿÿÿÿ8éì–¸‰.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æ‰¢8éì–¸‰.
+\
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(ìÒâþÿÿÿÿ8éì–¸‰.
+W
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(ï©—8€Ýƒ·‰.
+@squid:S1643Ã"Use a StringBuilder instead.(¯«Åðþÿÿÿÿ8éì–¸‰.
+\
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ì±Çûÿÿÿÿ8éì–¸‰.
+\
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(æ’“«ùÿÿÿÿ8éì–¸‰.
+\
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(±±Ÿôûÿÿÿÿ8éì–¸‰.
+Msquid:S1481š".Remove this unused "testroute" local variable.(Ò‡ìš8€Ýƒ·‰.
+Ssquid:S1611Ú"/Remove the parentheses around the "x" parameter(¨ü—ùüÿÿÿÿ8²Èöì†.
+\
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(æ’“«ùÿÿÿÿ8€Ýƒ·‰.
+Ssquid:S1611‡"/Remove the parentheses around the "x" parameter(¨ü—ùüÿÿÿÿ8²Èöì†.
+Ssquid:S1611¨"/Remove the parentheses around the "x" parameter(¨ü—ùüÿÿÿÿ8€Ýƒ·‰.
+\
+squid:S106º"9Replace this use of System.out or System.err by a logger.(Ç¬éƒùÿÿÿÿ8²Èöì†.
+\
+squid:S106™"9Replace this use of System.out or System.err by a logger.(Ó½Íÿÿÿÿÿ8éì–¸‰.
+W
+squid:S106…"9Replace this use of System.out or System.err by a logger.(¸»€º8éì–¸‰.
+\
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(Ç¬éƒùÿÿÿÿ8ÈÊù·‰.
+`squid:UnusedPrivateMethod¿".Remove this unused private "printPath" method.(ã«Íøÿÿÿÿ8éì–¸‰.
+Osquid:S1481¼"+Remove this unused "route2" local variable.(…ÍìÞøÿÿÿÿ8éì–¸‰.
+W
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(ÓÍîº8éì–¸‰.
+\
+squid:S106´"9Replace this use of System.out or System.err by a logger.(±±Ÿôûÿÿÿÿ8éì–¸‰.
+\
+squid:S106õ"9Replace this use of System.out or System.err by a logger.(à„‚òýÿÿÿÿ8£×£¸‰.
+‘squid:S1192™"mDefine a constant instead of duplicating this literal "Returning path from cache ----------------->" 3 times.(Ç¬éƒùÿÿÿÿ8øØ–¸‰.
+ª%squid:RedundantThrowsDeclarationChecki"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¤‘Ç¨ùÿÿÿÿ8²Èöì†.
+\
+squid:S106™"9Replace this use of System.out or System.err by a logger.(Ç¬éƒùÿÿÿÿ8µµ«¶‰.
+\
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(ÇúªÓþÿÿÿÿ8éì–¸‰.
+qsquid:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¬¬ó¾8€Ýƒ·‰.
+Nsquid:S1481»"*Remove this unused "route" local variable.(ßŠ¿½þÿÿÿÿ8€Ýƒ·‰.

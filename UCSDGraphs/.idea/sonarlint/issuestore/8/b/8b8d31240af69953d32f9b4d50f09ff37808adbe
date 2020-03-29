@@ -1,0 +1,36 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷¥‰î
+qsquid:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(È¾ª•
+hsquid:S1149´"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ê—áë
+vsquid:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏÔºıúÿÿÿÿ
+psquid:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡…Ú
+U
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+bsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(Ãã­
+O
+squid:S106k"9Replace this use of System.out or System.err by a logger.(ÌĞÔœ
+psquid:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡…Ú
+P
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(€ã®“
+vsquid:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏÔºıúÿÿÿÿ
+vsquid:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(²Š²Òùÿÿÿÿ
+qsquid:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(çã‹
+qsquid:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(çã‹
+=squid:S1170"!Make this final field static too.(ªÓÜ¦úÿÿÿÿ
+T
+squid:S106i"9Replace this use of System.out or System.err by a logger.(œÄÄßúÿÿÿÿ
+qsquid:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(çã‹
+U
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(÷ºüŒøÿÿÿÿ
+N
+squid:S106n"9Replace this use of System.out or System.err by a logger.(°•Ş
+U
+squid:S106à"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+nsquid:S3776K"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ã›Êèøÿÿÿÿ
+P
+squid:S106­"9Replace this use of System.out or System.err by a logger.(€ã®“
+qsquid:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê—áë
+U
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(÷ºüŒøÿÿÿÿ
+qsquid:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(È¾ª•
+qsquid:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š…­õ

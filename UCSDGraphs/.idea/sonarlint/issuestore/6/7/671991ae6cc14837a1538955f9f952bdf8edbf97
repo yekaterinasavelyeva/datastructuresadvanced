@@ -1,0 +1,11 @@
+
+Ssquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ
+Ksquid:S2864M"4Iterate over the "entrySet" instead of the "keySet".(¹Îåå
+psquid:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç‹à‰
+8squid:S1643t"Use a StringBuilder instead.(º‚ğ¨øÿÿÿÿ
+psquid:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(°˜±õ
+usquid:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª©şÿÿÿÿ
+3squid:S1643r"Use a StringBuilder instead.(õüóä
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó·Éƒÿÿÿÿÿ
+gsquid:UselessImportCheck"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8¿éÔĞ‚.
+Ksquid:S2864q"4Iterate over the "entrySet" instead of the "keySet".(×Ë§ü

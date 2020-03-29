@@ -1,0 +1,9 @@
+
+dsquid:UselessImportCheck"@Remove this unused import 'application.services.GeneralService'.(¦º‘¬
+T
+squid:S1061"9Replace this use of System.out or System.err by a logger.(†‘“øıÿÿÿÿ
+Fsquid:S1068"/Remove this unused "startMarker" private field.(¶»
+Lsquid:S1068"5Remove this unused "destinationMarker" private field.(Ø²–µ
+Nsquid:S1068"2Remove this unused "selectedMarker" private field.(ÒÑ•şÿÿÿÿ
+Bsquid:S1068"+Remove this unused "dataSet" private field.(îî­¦
+gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ç±‹íÿÿÿÿÿ

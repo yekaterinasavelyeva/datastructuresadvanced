@@ -1,0 +1,31 @@
+
+Ysquid:S00107:"BConstructor has 14 parameters, which is greater than 7 authorized.(…°®
+dsquid:UselessImportCheck"@Remove this unused import 'application.services.GeneralService'.(¦º‘¬
+™squid:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãöíÛ
+Hsquid:S1602c",Remove useless curly braces around statement(œž³ˆüÿÿÿÿ
+Jsquid:S10684".Remove this unused "pointLabel" private field.(­«Ýúüÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+Hsquid:S1602u",Remove useless curly braces around statement(“¢ñÎûÿÿÿÿ
+U
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(×«¬ªþÿÿÿÿ
+gsquid:UselessImportCheck">Remove this unused import 'gmapsfx.javascript.object.LatLong'.(Ýºµ°øÿÿÿÿ
+\squid:UselessImportCheck"8Remove this unused import 'javafx.util.StringConverter'.(ûóŠ×
+\squid:UselessImportCheck"8Remove this unused import 'javafx.scene.control.Slider'.(ÔãÃ™
+Xsquid:UselessImportCheck"/Remove this unused import 'java.io.FileReader'.(Â¡¢äþÿÿÿÿ
+`squid:UselessImportCheck"7Remove this unused import 'javafx.scene.control.Label'.(ö²­žÿÿÿÿÿ
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+\squid:UselessImportCheck"8Remove this unused import 'javafx.geometry.Orientation'.(¤‘õ—
+isquid:UselessImportCheck"@Remove this unused import 'gmapsfx.javascript.object.GoogleMap'.(ºªÏ§úÿÿÿÿ
+hsquid:UselessImportCheck"?Remove this unused import 'gmapsfx.javascript.object.MVCArray'.(“øêÛüÿÿÿÿ
+Csquid:S1602z",Remove useless curly braces around statement(ÉÅŠž
+gsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(Ë®µƒüÿÿÿÿ
+]squid:UselessImportCheck"4Remove this unused import 'gmapsfx.shapes.Polyline'.(‡Üû©ýÿÿÿÿ
+bsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(Œ™Šã
+gsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+Hsquid:S1602o",Remove useless curly braces around statement(‚›Ïüÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+Ksquid:S1172<"4Remove this unused method parameter "searchOptions".(ò¥£Þ
+msquid:UselessImportCheck"DRemove this unused import 'gmapsfx.javascript.object.LatLongBounds'.(ª¨ñ°úÿÿÿÿ
+Hsquid:S1602h",Remove useless curly braces around statement(§ûìâùÿÿÿÿ
+csquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

@@ -1,0 +1,44 @@
+
+Lsquid:S1066Ô"/Merge this if statement with the enclosing one.(ÛìÅúÿÿÿÿ
+ˆsquid:S1319†"pThe type of the "segments" object should be an interface such as "Map" rather than the implementation "HashMap".(ÕöŠ
+msquid:S3824è"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(‘¾á„8›Â¸¸.
+@squid:S1148¼"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+qsquid:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰›ÃŸ
+psquid:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ê½o
+P
+squid:S106»"9Replace this use of System.out or System.err by a logger.(»¡û‰
+Dsquid:S1172¥",Remove this unused method parameter "graph".(°ó¹˜
+vsquid:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥‘±–ùÿÿÿÿ
+csquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(åÅŒ
+esquid:S2095;"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(™Ìıšÿÿÿÿÿ
+qsquid:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(’‹Ñ÷
+P
+squid:S106¶"9Replace this use of System.out or System.err by a logger.( ùËó
+qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æØ™¶
+qsquid:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(îÒÕÖ
+vsquid:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯â–Öøÿÿÿÿ
+dsquid:S2095’"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Œ˜Ã“
+vsquid:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã–™¤şÿÿÿÿ
+T
+squid:S106S"9Replace this use of System.out or System.err by a logger.(»×Êœüÿÿÿÿ
+Ssquid:S2864Ê"4Iterate over the "entrySet" instead of the "keySet".(¯¼¡8›Â¸¸.
+P
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(¯¥âƒ
+usquid:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯â–Öøÿÿÿÿ
+dsquid:S2095î"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Œ˜Ã“
+Fsquid:S1481å".Remove this unused "lineCount" local variable.(ó©âœ
+vsquid:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(š¼ï–ùÿÿÿÿ
+qsquid:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥•¦²
+qsquid:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(’‹Ñ÷
+fsquid:S4201–"IRemove this unnecessary null check; "instanceof" returns false for nulls.(‘àÉÃşÿÿÿÿ
+qsquid:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š¼âğ
+@squid:S1148›"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+P
+squid:S106•"9Replace this use of System.out or System.err by a logger.( ùËó
+dsquid:S2095¨"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Œ˜Ã“
+P
+squid:S106š"9Replace this use of System.out or System.err by a logger.(µú­
+hsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+psquid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰›ÃŸ
+osquid:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ŒçÿÛùÿÿÿÿ

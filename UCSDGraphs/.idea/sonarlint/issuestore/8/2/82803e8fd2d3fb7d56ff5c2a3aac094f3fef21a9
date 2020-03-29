@@ -1,0 +1,24 @@
+
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+qsquid:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(±™³Í
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+Lsquid:EmptyStatementUsageCheck"Remove this empty statement.(ì™¼üÿÿÿÿ
+U
+squid:S106½"9Replace this use of System.out or System.err by a logger.(ò“¦êûÿÿÿÿ
+hsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(“ÓÚöùÿÿÿÿ
+Fsquid:S1066¯"/Merge this if statement with the enclosing one.(ˆ¯Ä{
+asquid:UselessImportCheck"8Remove this unused import 'javafx.scene.control.Button'.(Ë Í‹øÿÿÿÿ
+hsquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(’şÿÿÿÿ
+csquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(–¦úÔ
+isquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ê€|
+Usquid:UselessImportCheck"2Remove this unused import 'geography.RoadSegment'.(À° `
+asquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(ğĞr
+hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(„•ëÿÿÿÿÿ
+gsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.( Ã“ úÿÿÿÿ
+csquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(››åá
+=squid:S1068%"&Remove this unused "rv" private field.(”ÿ¾ï
+Xsquid:UselessImportCheck"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ
+hsquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(Ö×¬´şÿÿÿÿ
+Ssquid:UselessImportCheck"0Remove this unused import 'application.DataSet'.(ª¡a
+gsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(¥ä°¿ûÿÿÿÿ

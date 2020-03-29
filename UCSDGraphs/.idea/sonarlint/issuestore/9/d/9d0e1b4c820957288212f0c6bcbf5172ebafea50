@@ -1,0 +1,19 @@
+
+8squid:S1643p"Use a StringBuilder instead.(¯«Åğşÿÿÿÿ
+asquid:UselessImportCheck"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ
+Wsquid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+@squid:S1148‹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"SMake correct a static final constant or non-public and provide accessors if needed.(æÕ˜œ
+Tsquid:CallToDeprecatedMethod1",Remove this use of "stop"; it is deprecated.(Áñë›
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"TMake feedback a static final constant or non-public and provide accessors if needed.(Ûïş€ùÿÿÿÿ
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
+Msquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å
+Xsquid:UselessImportCheck"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+N
+squid:S1067"9Replace this use of System.out or System.err by a logger.(õë¬P
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(éª‚M
+Qsquid:UselessImportCheck	".Remove this unused import 'java.util.HashSet'.(Ê‚êX

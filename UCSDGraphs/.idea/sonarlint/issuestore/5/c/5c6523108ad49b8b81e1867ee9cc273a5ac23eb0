@@ -1,0 +1,24 @@
+
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+nsquid:S3008#"WRename this field "SELECTED_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ³Àó
+lsquid:S1450*"URemove the "bounds" field and declare it as a local variable in the relevant methods.(È¨æô
+usquid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(—“î¶øÿÿÿÿ
+Bsquid:S11727"&Remove these unused method parameters.(×ş¹ôúÿÿÿÿ
+qsquid:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê¡åí
+Isquid:S1068"-Remove this unused "DEFAULT_Z" private field.(”—ëşÿÿÿÿ
+Hsquid:S1068",Remove this unused "SELECT_Z" private field.(ÿøâÂşÿÿÿÿ
+Jsquid:S1068".Remove this unused "STRTDEST_Z" private field.(Ÿ¯…ıÿÿÿÿ
+gsquid:CommentedOutCodeLinem"<This block of commented-out lines of code should be removed.(Õ¨¦¶ıÿÿÿÿ
+bsquid:CommentedOutCodeLinep"<This block of commented-out lines of code should be removed.(‚Øê
+bsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(ŠÂ’ù
+bsquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(ëÿõ¯
+hsquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(²Š©úÿÿÿÿ
+hsquid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(Ç—€åùÿÿÿÿ
+hsquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(Éîåúşÿÿÿÿ
+hsquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(úïÁÜÿÿÿÿÿ
+csquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(É¡Ë³
+hsquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(«ıÕúøÿÿÿÿ
+csquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(óÓË
+csquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(¾Õ´Š
+hsquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(…Ğƒúÿÿÿÿ
+csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(‰½ë

@@ -1,0 +1,5 @@
+
+‰squid:S1319#"mThe type of the "roads" object should be an interface such as "Map" rather than the implementation "HashMap".(è£ò“ùÿÿÿÿ
+‰squid:S13197"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ÛÍùåøÿÿÿÿ
+usquid:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë‰Ÿºýÿÿÿÿ
+psquid:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïÖ¥à

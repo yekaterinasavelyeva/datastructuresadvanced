@@ -1,0 +1,6 @@
+
+T
+squid:S106z"9Replace this use of System.out or System.err by a logger.(ûĞ×ûÿÿÿÿ
+8squid:S1643f"Use a StringBuilder instead.(¼åàãøÿÿÿÿ
+wsquid:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıÕ‹Ç8¤¦ñì„.
+usquid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œåı¬ıÿÿÿÿ
